@@ -1,6 +1,6 @@
 <template>
-  <div id="app">
-    <router-view />
+  <div>
+    广告位
   </div>
 </template>
 
@@ -8,8 +8,8 @@
 import Vue from 'vue'
 
 export default Vue.extend({
-  name: 'App'
+  name: 'AdvertSpave'
 })
 </script>
 
-<style lang="scss"></style>
+<style lang='scss' scoped></style>
